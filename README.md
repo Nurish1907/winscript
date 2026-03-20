@@ -1,0 +1,2 @@
+# winscript
+Script for automation
